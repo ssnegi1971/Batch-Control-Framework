@@ -2,4 +2,4 @@
 
 This is Parallel Automation Framework containing IBM DataStage jobs.
 
-It has a reportory layer to store job information.
+It has a repository layer to store job information.
